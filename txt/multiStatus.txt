@@ -1,77 +1,77 @@
-1_ky!help || Bot Kaiden
-2_ky!help || Item God 2
-3_ky!help || ななひらのファンクラブ
-4_ky!help || IIDX
-5_ky!help || #1 Daiwa Stan
-6_ky!help || The Mad God
-7_ky!help || MAX -34
-8_ky!help || Glasses!
-9_ky!help || PABST BLUE RIBBON
-10_ky!help || Major Melon Zero
-11_ky!help || ＡＡの［Ａ］のＡＡＡ
-12_ky!help || どっちが神だ
-13_ky!help || est. 2021
-14_ky!help || 2K FREESTYLE
-15_ky!help || PUC FREAK
-16_ky!help || Daisycutter MXM
-17_ky!help || The Kanade Bot
-18_ky!help || Verflucht SPL
-19_ky!help || Tangerine Stream
-20_ky!help || DYNAMITE RAVE
-21_ky!help || Devil's Gear
-22_ky!help || MIRACLE MEETS
-23_ky!help || smooooch・∀・
-24_ky!help || RIP WACCA
-25_ky!help || 573
-26_ky!help || It's SHOWTIME!
-27_ky!help || SPLASH GOLD
-28_ky!help || MAX 360
-29_ky!help || Ah Hah Yeah
-30_ky!help || Chewingood!!!
-31_ky!help || Grace > Rasis
-32_ky!help || bork
-33_ky!help || Good morning motherfuckers
-34_ky!help || ばらんが!!!!
-35_ky!help || Zipline Jesus
-36_ky!help || Guilty Gear -STRIVE-
-37_ky!help || TOTSUGEKI!!
-38_ky!help || Guilty Gear
-39_ky!help || Guilty Gear X
-40_ky!help || Guilty Gear X2
-41_ky!help || Guilty Gear Xrd -SIGN-
-42_ky!help || Guilty Gear Xrd -REVELATOR-
-43_ky!help || Guilty Gear XX
-44_ky!help || I use Artix btw
-45_ky!help || New Suck When?
-46_ky!help || Radical. Audio. Visual. Experience.
-47_ky!help || 天邪鬼
-48_ky!help || Fortnite Battle Royale
-49_ky!help || 東方永夜抄　～ Imperishable Night
-50_ky!help || 東方妖々夢　～ Perfect Cherry Blossom
-51_ky!help || beatmania IIDX
-52_ky!help || The Backrooms
-53_ky!help || Apex Legends
-54_ky!help || STREAM RIDING
-55_ky!help || Qlarabelle
-56_ky!help || It's Morbin' time.
-57_ky!help || I'd like some more coffee.
-58_ky!help || I'd like some more green tea.
-58_ky!help || EVERY NIGHT
-58_ky!help || EVERY DAY
-58_ky!help || EVERY NIGHT, EVERY DAY
-59_ky!help || ТРИ ПОЛОСКИ
-60_ky!help || ハードベース・フェスタ
-61_ky!help || スカーレット警察のゲットーパトロール24時
-62_ky!help || Shopping for Peroro Merch
-63_ky!help || Blue Archive
-64_ky!help || Epic Seven
-65_ky!help || Azur Lane
-66_ky!help || 艦隊これくしょん
-67_ky!help || Noita
-67_ky!help || Cutter
-67_ky!help || Love Kills U
-68_ky!help || Love Pills
-69_ky!help || Jammin to EmoCo.
-70_ky!help || I won't say goodbye now cause I'll see you again
-71_ky!help || ギョギョっと人魚♨爆婚ブライダル
-72_ky!help || Marrying a Mermaid
+1_Bot Kaiden
+2_Item God 2
+3_ななひらのファンクラブ
+4_IIDX
+5_#1 Daiwa Stan
+6_The Mad God
+7_MAX -34
+8_Glasses!
+9_PABST BLUE RIBBON
+10_Major Melon Zero
+11_ＡＡの［Ａ］のＡＡＡ
+12_どっちが神だ
+13_est. 2021
+14_2K FREESTYLE
+15_PUC FREAK
+16_Daisycutter MXM
+17_The Kanade Bot
+18_Verflucht SPL
+19_Tangerine Stream
+20_DYNAMITE RAVE
+21_Devil's Gear
+22_MIRACLE MEETS
+23_smooooch・∀・
+24_RIP WACCA
+25_573
+26_It's SHOWTIME!
+27_SPLASH GOLD
+28_MAX 360
+29_Ah Hah Yeah
+30_Chewingood!!!
+31_Grace > Rasis
+32_bork
+33_Good morning motherfuckers
+34_ばらんが!!!!
+35_Zipline Jesus
+36_Guilty Gear -STRIVE-
+37_TOTSUGEKI!!
+38_Guilty Gear
+39_Guilty Gear X
+40_Guilty Gear X2
+41_Guilty Gear Xrd -SIGN-
+42_Guilty Gear Xrd -REVELATOR-
+43_Guilty Gear XX
+44_I use Artix btw
+45_New Suck When?
+46_Radical. Audio. Visual. Experience.
+47_天邪鬼
+48_Fortnite Battle Royale
+49_東方永夜抄　～ Imperishable Night
+50_東方妖々夢　～ Perfect Cherry Blossom
+51_beatmania IIDX
+52_The Backrooms
+53_Apex Legends
+54_STREAM RIDING
+55_Qlarabelle
+56_It's Morbin' time.
+57_I'd like some more coffee.
+58_I'd like some more green tea.
+58_EVERY NIGHT
+58_EVERY DAY
+58_EVERY NIGHT, EVERY DAY
+59_ТРИ ПОЛОСКИ
+60_ハードベース・フェスタ
+61_スカーレット警察のゲットーパトロール24時
+62_Shopping for Peroro Merch
+63_Blue Archive
+64_Epic Seven
+65_Azur Lane
+66_艦隊これくしょん
+67_Noita
+67_Cutter
+67_Love Kills U
+68_Love Pills
+69_Jammin to EmoCo.
+70_I won't say goodbye now cause I'll see you again
+71_ギョギョっと人魚♨爆婚ブライダル
+72_Marrying a Mermaid

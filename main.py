@@ -55,7 +55,7 @@ intents.reactions = True
 
 global version
 version = os.popen('git rev-parse HEAD').read()
-print('Twitter Link Detector (Working Name)\n' + 'Commit: ' + str(version))
+print('LinkBot\n' + 'Commit: ' + str(version))
 
 '''
 Debug Mode details
@@ -81,9 +81,9 @@ command section
 command prefix ky!
 '''
 if debugValue >= 1:
-	bot = commands.Bot(command_prefix='kyt!',intents=intents)
+	bot = commands.Bot(command_prefix='lbt!',intents=intents)
 else:
-	bot = commands.Bot(command_prefix='ky!',intents=intents)
+	bot = commands.Bot(command_prefix='lb!',intents=intents)
 
 bot.remove_command('help')
 '''
@@ -133,6 +133,15 @@ Will check if a message only has a twitter/x link and convert it to a fxtwitter/
 async def on_message(message):
 	if message.author == bot.user:
 		return
+
+	if debugValue >= 1:
+		if message.content[0:4] == 'lbt!': ##ignores kyt! commands
+			await bot.process_commands(message)
+			return
+	else:
+		if message.content[0:3] == 'lb!': ##ignores ky! commands
+			await bot.process_commands(message)
+			return
 
 	if debugValue >= 1:
 		print('MESSAGE DEBUG VIEW\n')
