@@ -150,13 +150,13 @@ async def on_message(message):
 		print('Message Author: ' + str(message.author))
 		print('Message Content: ' + str(message.content) + '\n')
 
-	if "https://x.com/" in message.content:
+	if "https://x.com/" in message.content and "/status/" in message.content:
 		link = str(message.content)
 		newLink = link.replace("x.com", "fixvx.com")
 		await message.edit(suppress=True)
 		await message.channel.send(newLink)
 		return
-	elif "https://twitter.com/" in message.content:
+	elif "https://twitter.com/" in message.content and "/status/" in message.content:
 		link = str(message.content)
 		newLink = link.replace("twitter.com", "vxtwitter.com")
 		await message.edit(suppress=True)
@@ -167,6 +167,8 @@ async def on_message(message):
 		newLink = link.replace("pixiv.net", "phixiv.net")
 		await message.edit(suppress=True)
 		await message.channel.send(newLink)
+		return
+	else:
 		return
 
 	return
