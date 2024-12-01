@@ -168,6 +168,12 @@ async def on_message(message):
 		await message.edit(suppress=True)
 		await message.channel.send("From: " + str(message.author) + "\n" + newLink)
 		return
+	elif "https://bsky.app" in message.content and "/post/" in message.content:
+		link = str(message.content)
+		newLink = link.replace("bsky.app", "bskyx.app")
+		await message.edit(suppress=True)
+		await message.channel.send("From: " + str(message.author) + "\n" + newLink)
+		return
 	else:
 		return
 
