@@ -150,6 +150,10 @@ async def on_message(message):
 		print('Message Author: ' + str(message.author))
 		print('Message Content: ' + str(message.content) + '\n')
 
+	if str(message.channel.id) == "957410969594781708":
+		await message.channel.send ("Trap Triggered")
+		return
+
 	if "https://x.com/" in message.content and "/status/" in message.content:
 		link = str(message.content)
 		newLink = link.replace("x.com", "fixvx.com")
