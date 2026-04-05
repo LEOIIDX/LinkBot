@@ -91,9 +91,7 @@ Changes the status randomly on startup
 Statuses come from dictionary generated from a txt file
 '''
 
-memberCounterChannel = 837031791994208258
-memberCounterChannelTest = 846244059768029265
-qotdCh = 867088318466359338
+modChannel = 957410969594781708
 global responseCheck
 responseCheck = 1
 
@@ -151,7 +149,7 @@ async def on_message(message):
 		print('Message Content: ' + str(message.content) + '\n')
 
 	if str(message.channel.id) == "1490268773230579843":
-		await message.channel.send ("Trap Triggered")
+		await bot.get_Channel(modChannel).send ("Trap Triggered")
 		return
 
 	if "https://x.com/" in message.content and "/status/" in message.content:
