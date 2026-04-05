@@ -150,7 +150,7 @@ async def on_message(message):
 		print('Message Author: ' + str(message.author))
 		print('Message Content: ' + str(message.content) + '\n')
 
-	if str(message.channel.id) == "957410969594781708":
+	if str(message.channel.id) == "1490268773230579843":
 		await message.channel.send ("Trap Triggered")
 		return
 
