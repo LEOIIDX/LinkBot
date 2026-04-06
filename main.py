@@ -1,5 +1,5 @@
 '''
-LinkBot
+LinkBot (KotoneBot)
 By: LEO2DX
 main.py
 
@@ -92,7 +92,6 @@ Statuses come from dictionary generated from a txt file
 '''
 
 modID = 957410969594781708
-modChannel = bot.get_channel(modID)
 
 global responseCheck
 responseCheck = 1
@@ -150,8 +149,12 @@ async def on_message(message):
 		print('Message Author: ' + str(message.author))
 		print('Message Content: ' + str(message.content) + '\n')
 
-	if str(message.channel.id) == "1490268773230579843":
-		await modChannel.send("Trap Triggered")
+#   wataa server honeypot trap
+
+    if str(message.channel.id) == "1490268773230579843":
+		modChannel = bot.get_channel(modID)
+        await message.author.ban(reason = BOT BAN)
+		await modChannel.send("Banned " + str(message.author) + " for sending in the trap channel"
 		return
 
 	if "https://x.com/" in message.content and "/status/" in message.content:
